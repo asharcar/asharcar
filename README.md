@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Luau-%2318181b?style=flat-square&logo=luau"/>
   <img src="https://img.shields.io/badge/C%2B%2B-%2318181b?style=flat-square&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/C%23-%2318181b?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash-%2318181b?style=flat-square&logo=gnubash&logoColor=%234EAA25"/>
   <img src="https://img.shields.io/badge/HTML-%2318181b?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-%2318181b?style=flat-square&logo=CSS&logoColor=663399"/>
   <img src="https://img.shields.io/badge/discord.py-%2318181b?style=flat-square&logo=discord&logoColor=%23334eb0"/>
