@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Bash-%2318181b?style=flat-square&logo=gnubash&logoColor=%234EAA25"/>
   <img src="https://img.shields.io/badge/HTML-%2318181b?style=flat-square&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-%2318181b?style=flat-square&logo=CSS&logoColor=663399"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2318181b?style=flat-square&logo=tailwindcss&logoColor=663399"/>
   <img src="https://img.shields.io/badge/discord.py-%2318181b?style=flat-square&logo=discord&logoColor=%23334eb0"/>
   <img src="https://img.shields.io/badge/discord.js-%2318181b?style=flat-square&logo=discord&logoColor=%235865F2"/>
   <img src="https://img.shields.io/badge/Node.js-%2318181b?style=flat-square&logo=nodedotjs&logoColor=%235FA04E"/>
