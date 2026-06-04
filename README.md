@@ -21,6 +21,6 @@
   <img src="https://img.shields.io/badge/Hostinger-%2318181b?style=flat-square&logo=hostinger&logoColor=%23673DE6"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-%2318181b?style=flat-square&logo=googlecloud&logoColor=%234285F4"/>
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-%2318181b?style=flat-square&logo=amazon
-aws&logoColor=%234285F4"/>
+ aws&logoColor=%234285F4"/>
   <img src="https://img.shields.io/badge/Figma-%2318181b?style=flat-square&logo=figma&logoColor=%23F24E1E"/>
 </div>
